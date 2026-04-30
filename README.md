@@ -3,12 +3,27 @@ this is the About Page of Voffi with links to medias and other projects
 
 <details>
 <summary>Other Projects</summary>
-  `Projects`
-Pvp List  
-  
-  
-
-
+Projects
+<details>
+<summary>Web Projects</summary>
+  The Yeeps PvP List
+</details>
+<details>
+<summary>Yeeps Projects</summary>
+PvP List
+PvP Rank
+CWM
+Bounty Smp
+</details>
+<details>
+<summary>Want me to help on your Projects</summary>
+If you want me to help you plese pitch your ideas to me on 
+discord. user: voffi
+</details>
+<details>
+<summary>Extra Projects</summary>
+Vlib
+</details>
 </details>
 
 

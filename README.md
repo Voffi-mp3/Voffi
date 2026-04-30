@@ -6,13 +6,13 @@ this is the About Page of Voffi with links to medias and other projects
 Projects
 <details>
 <summary>Web Projects</summary>
-  The Yeeps PvP List
+  [The Yeeps PvP List](https://discord.gg/7mry9QQCGH)
 </details>
 <details>
 <summary>Yeeps Projects</summary>
-PvP List
-PvP Rank
-CWM
+[PvP List,](https://discord.gg/7mry9QQCGH)
+PvP Rank,
+CWM,
 Bounty Smp
 </details>
 <details>
@@ -22,7 +22,7 @@ discord. user: voffi
 </details>
 <details>
 <summary>Extra Projects</summary>
-Vlib
+[Vlib](https://discord.gg/KnCnVaxey5)
 </details>
 </details>
 

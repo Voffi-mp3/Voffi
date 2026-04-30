@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Acheron - Home</title>
+<link rel="icon" type="image/png" href="https://astron-html.github.io/Acheron/Images/Acheron_0.png" />
+<link rel="stylesheet" href="./Style.css">
+<style>
+@import url('./Style.css');
+</style>
+</head>
+<body>
+      <div id="loader">
+    <div class="loader-content">
+        <div class="glitch-text" data-text="ACHERON">ACHERON</div>
+        <div class="status-box">
+            <span class="status-label">SYSTEM STATUS:</span>
+            <span class="status-value">BOOTING...</span>
+        </div>
+        <div class="progress-container">
+            <div class="progress-bar" id="bar"></div>
+        </div>
+        <div class="technical-info">
+            <span>CORE_SYNC: ACTIVE</span>
+            <span>VER: 55b</span>
+            <span>ENCRYPT_STAG: 0x44F</span>
+        </div>
+    </div>
+</div>
+      <div class="grid"></div>
+
+    <main>
+        <p>System Initiative</p>
+        <h1>ACHERON</h1>
+        <div class="line"></div>
+        <div class="nav-links">
+            <a href="#">Coming Soon...</a>
+            <a href="#">Coming Soon...</a>
+            <a href="#">Coming Soon...</a>
+            <a href="https://astron-html.github.io/Acheron/Wiki/">Wikis</a>
+        </div>
+    </main>
+</body>
+<script src="./Script.js"></script>

@@ -4,7 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>Acheron - Home</title>
-<link rel="icon" type="image/png" href="https://astron-html.github.io/Acheron/Images/Acheron_0.png" />
+<link rel="icon" type="image/png" href="/images/Favicon.png" />
 <link rel="stylesheet" href="./Style.css">
 <style>
 @import url('./Style.css');
@@ -13,7 +13,7 @@
 <body>
       <div id="loader">
     <div class="loader-content">
-        <div class="glitch-text" data-text="ACHERON">ACHERON</div>
+        <div class="glitch-text" data-text="Voffi">Voffi</div>
         <div class="status-box">
             <span class="status-label">SYSTEM STATUS:</span>
             <span class="status-value">BOOTING...</span>
@@ -23,7 +23,7 @@
         </div>
         <div class="technical-info">
             <span>CORE_SYNC: ACTIVE</span>
-            <span>VER: 55b</span>
+            <span>VER: 1</span>
             <span>ENCRYPT_STAG: 0x44F</span>
         </div>
     </div>
@@ -32,13 +32,13 @@
 
     <main>
         <p>System Initiative</p>
-        <h1>ACHERON</h1>
+        <h1>Voffi</h1>
         <div class="line"></div>
         <div class="nav-links">
             <a href="#">Coming Soon...</a>
             <a href="#">Coming Soon...</a>
             <a href="#">Coming Soon...</a>
-            <a href="https://astron-html.github.io/Acheron/Wiki/">Wikis</a>
+            <a href="#"><img src=""</a>
         </div>
     </main>
 </body>

@@ -9,8 +9,8 @@ this is the About Page of Voffi with links to medias and other projects
 [The Yeeps PvP List](https://discord.gg/7mry9QQCGH)
 
 
-`Yeeps Projects`
-[PvP List,](https://discord.gg/7mry9QQCGH)
+`Yeeps Projects` \
+[PvP List,](https://discord.gg/7mry9QQCGH) \
 PvP Rank, \
 CWM, \
 Bounty Smp

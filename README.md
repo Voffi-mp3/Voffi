@@ -3,12 +3,12 @@ this is the About Page of Voffi with links to medias and other projects
 
 <details>
 <summary>Other Projects</summary>
-  <p>`Projects`
+  `Projects`
 Pvp List  
   
   
 
-</p>
+
 </details>
 
 

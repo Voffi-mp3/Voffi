@@ -168,3 +168,57 @@ body.loaded #loader {
     54% { opacity: 0.4; }
 }
 
+
+.discord {
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+
+.discord img {
+  width: 40px;  
+  height: 40px;
+  vertical-align: middle;
+}
+
+
+.discord:hover {
+  transform: scale(1.1);
+}
+
+
+.youtube {
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+
+.youtube img {
+  width: 40px;  
+  height: 40px;
+  vertical-align: middle;
+}
+
+
+.youtube:hover {
+  transform: scale(1.1);
+}
+
+
+.github {
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+
+.github img {
+  width: 40px;  
+  height: 40px;
+  vertical-align: middle;
+}
+
+
+.github:hover {
+  transform: scale(1.1);
+}
+

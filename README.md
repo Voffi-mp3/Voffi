@@ -5,7 +5,7 @@ this is the About Page of Voffi with links to medias and other projects
 
 ```Projects```
 
-`Web Projects`
+`Web Projects` \
 [The Yeeps PvP List](https://discord.gg/7mry9QQCGH)
 
 
@@ -15,10 +15,10 @@ PvP Rank, \
 CWM, \
 Bounty Smp
 
-`Extra Projects`
+`Extra Projects` \
 [Vlib](https://discord.gg/KnCnVaxey5)
 
-`Want me to help on your Projects`
+`Want me to help on your Projects` \
 If you want me to help you plese pitch your ideas to me on 
 discord. user: voffi
 
